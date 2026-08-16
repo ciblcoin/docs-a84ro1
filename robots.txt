@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-rl4rwm.salamcuan.online/sitemap.xml
